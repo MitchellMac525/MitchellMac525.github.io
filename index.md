@@ -4,8 +4,6 @@ You can use the [editor on GitHub](https://github.com/MitchellMac525/MitchellMac
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![GitHub Logo](https://wallhaven.cc/w/0w5657)
-Format: ![Alt Text](url)
 
 ### Markdown
 
